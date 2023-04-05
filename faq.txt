@@ -1,0 +1,20 @@
+https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/development_environment
+
+**************************************************************************************
+
+python manage.py runserver
+
+**************************************************************************************
+1. Install Python
+2. pip3 install virtualenvwrapper-win
+3. Make virtual env 
+
+	$ mkvirtualenv my_django_environment
+	Running virtualenv with interpreter /usr/bin/python3 ...
+	virtualenvwrapper.user_scripts creating /home/ubuntu/.virtualenvs/t_env7/bin/get_env_details
+	(my_django_environment) ubuntu@ubuntu:~$
+4. pip3 install django
+5. 
+		mkdir django_test
+		cd django_test
+		
